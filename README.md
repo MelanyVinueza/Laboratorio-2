@@ -73,12 +73,3 @@ La aplicación incluye componentes personalizados para encabezado, pie de págin
   - Carga imágenes desde `data/images.json` o una API.
   - Muestra cada imagen con su título y descripción, organizadas en un diseño de cuadrícula.
 
----
-
-## **Instalación y Uso**
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd <NOMBRE_DEL_PROYECTO>
-
